@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1614756554 source:f:\workspace\pushbox\tools.cpp
+	"tools.h"
+	<windows.h>
+	<stdio.h>
+	<cstddef>
+
+1614756577 f:\workspace\pushbox\tools.h
+
